@@ -8,8 +8,17 @@ Free Windows tool to monitor SSL certificate expiry and send alerts.
 
 
 ## Screenshot
+## Screenshots
 
+### Dashboard
 ![Dashboard](https://raw.githubusercontent.com/sachinsamylst/ssl-monitor/main/Dashboard.JPG)
+
+### Domains
+![Domains](https://raw.githubusercontent.com/sachinsamylst/ssl-monitor/main/Domain.JPG)
+
+### Email Settings
+![Email](https://raw.githubusercontent.com/sachinsamylst/ssl-monitor/main/Email.JPG)
+
 ## Features
 
 - Monitor multiple domains
