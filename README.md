@@ -7,7 +7,6 @@ Free Windows tool to monitor SSL certificate expiry and send alerts.
 [![Download ITCOH SSL Monitor](https://img.shields.io/badge/Download-ITCOH%20SSL%20Monitor-blue?style=for-the-badge)](https://github.com/sachinsamylst/ssl-monitor/releases)
 
 
-## Screenshot
 ## Screenshots
 
 ### Dashboard
@@ -18,6 +17,12 @@ Free Windows tool to monitor SSL certificate expiry and send alerts.
 
 ### Email Settings
 ![Email](https://raw.githubusercontent.com/sachinsamylst/ssl-monitor/main/Email.JPG)
+
+### Scheduler
+![Scheduler](https://raw.githubusercontent.com/sachinsamylst/ssl-monitor/main/Scheduler.JPG)
+
+### Settings
+![Settings](https://raw.githubusercontent.com/sachinsamylst/ssl-monitor/main/Settings.JPG)
 
 ## Features
 
