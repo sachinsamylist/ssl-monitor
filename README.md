@@ -10,7 +10,6 @@ Free Windows tool to monitor SSL certificate expiry and send alerts.
 ## Screenshot
 
 ![Dashboard](https://raw.githubusercontent.com/sachinsamylst/ssl-monitor/main/Dashboard.JPG)
-
 ## Features
 
 - Monitor multiple domains
